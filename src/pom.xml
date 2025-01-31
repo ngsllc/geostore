@@ -125,7 +125,7 @@
         <qa>true</qa>
         <lint>deprecation</lint>
         <spotbugs-maven-pligin>3.1.12.2</spotbugs-maven-pligin>
-        <pmd.version>6.42.0</pmd.version>
+        <pmd.version>7.10.0</pmd.version>
         <errorProneFlags />
         <errorProne.version>2.18.0</errorProne.version>
     </properties>
